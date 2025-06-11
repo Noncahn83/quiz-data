@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "questionText": "日本の都道府県の数はいくつでしょう？",
+      "correctAnswer": "47",
+      "options": [
+        "45",
+        "46",
+        "48"
+      ],
+      "explanation": "日本には47の都道府県があります。"
+    },
+    {
+      "questionText": "太陽系で最も大きい惑星は何でしょう？",
+      "correctAnswer": "木星",
+      "options": [
+        "地球",
+        "火星",
+        "土星"
+      ],
+      "explanation": "木星は太陽系最大の惑星であり、その質量は他のすべての惑星の合計の2倍以上です。"
+    },
+    {
+      "questionText": "光の速さは約何km/秒でしょう？",
+      "correctAnswer": "30万",
+      "options": [
+        "3万",
+        "300万",
+        "3000万"
+      ],
+      "explanation": "光の速さは真空中でおよそ299,792.458 km/秒、一般的には約30万km/秒とされます。"
+    },
+    {
+      "questionText": "童話「桃太郎」で、桃太郎が鬼退治に連れて行った動物は犬、猿、あと何でしょう？",
+      "correctAnswer": "キジ",
+      "options": [
+        "クマ",
+        "ウサギ",
+        "タヌキ"
+      ],
+      "explanation": "桃太郎のお供は犬、猿、キジの3匹です。"
+    },
+    {
+      "questionText": "日本の通貨単位は何でしょう？",
+      "correctAnswer": "円",
+      "options": [
+        "ドル",
+        "ユーロ",
+        "ポンド"
+      ],
+      "explanation": "日本の通貨は「円」です。"
+    }
+  ]
+}
